@@ -25,9 +25,9 @@
 
 // Font.
 	$font: (
-		family:					('Source Sans Pro', Helvetica, sans-serif),
-		family-fixed:			('Courier New', monospace),
-		family-heading:			('Raleway', Helvetica, sans-serif),
+		family:					(cursive, Helvetica, sans-serif),
+		family-fixed:			('Cursive', monospace),
+		family-heading:			('Comic Sans', Helvetica, sans-serif),
 		weight:					300,
 		weight-bold:			600,
 		weight-extrabold:		700,
@@ -46,8 +46,8 @@
 		fg-light:				rgba(0,0,0,0.25),
 		border:					rgba(144,144,144,0.25),
 		border-bg:				rgba(144,144,144,0.1),
-		accent:					#49fcd4,
-		accent-border:			desaturate(darken(#49fcd4, 8), 30),
-		accent-alt:				desaturate(darken(#49fcd4, 10), 20),
-		accent-bg:				transparentize(#49fcd4, 0.75)
+		accent:					#49d8fc,
+		accent-border:			desaturate(darken(#49d8fc, 8), 30),
+		accent-alt:				desaturate(darken(#146479, 10), 20),
+		accent-bg:				transparentize(#49d8fc, 0.75)
 	);
